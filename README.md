@@ -4,7 +4,7 @@ Repository of GRC projects for continual learning and education
 
 Jerel Amos - Cyber GRC Portfolio
 Summary
-I am a Governance, Risk, and Compliance (GRC) professional with over 12 years of experience bridging technical security operations and compliance frameworks. I have an active Top Secret security clearance and a proven track record in risk assessments, POA&M management, and audit readiness across NIST RMF, ISO 27001, PCI-DSS, and HIPAA environments. My skills include developing policies, conducting vendor risk reviews, and aligning controls with business and regulatory requirements. I am also actively pursuing my CRISC and CISA certifications.
+I am a Governance, Risk, and Compliance (GRC) professional with over 12 years of experience bridging technical security operations and compliance frameworks. I have a proven track record in risk assessments, POA&M management, and audit readiness across NIST RMF, ISO 27001, PCI-DSS, and HIPAA environments. My skills include developing policies, conducting vendor risk reviews, and aligning controls with business and regulatory requirements. I am also actively pursuing my CRISC and CISA certifications.
 
 
 
