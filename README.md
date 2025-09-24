@@ -1,6 +1,5 @@
 # Jere-GRC-Portfolio
 Repository of GRC projects for continual learning and education
-That's a great start! I've taken the information you provided and woven it into a more polished and professional README file for your GitHub portfolio.
 
 
 Jerel Amos - Cyber GRC Portfolio
